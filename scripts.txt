@@ -1,0 +1,2 @@
+ab -n 1000000 -c 100 http://localhost:3000/push
+ab -n 1000000 -c 100 http://localhost:3001/read
